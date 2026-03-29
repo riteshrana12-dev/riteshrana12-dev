@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### 💫 About Me
 I am a **Full Stack Developer** passionate about bridging the gap between complex data and user-centric applications. My work focuses on integrating **Generative AI** into real-world solutions.
 
-- 🚀 Currently working on **[CodeScale]()**
+- 🚀 Currently working on **[CodeScale](https://github.com/riteshrana12-dev/codeScale.git)**
 - 🧠 Deep diving into **Multimodal AI** (Vision + Text) using Gemini 2.0
 - ⚡ I specialize in **MERN Stack** and high-performance frontend architectures
 - 📫 How to reach me: [Your Email/LinkedIn Link]
