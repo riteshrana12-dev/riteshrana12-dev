@@ -3,7 +3,7 @@
 # Hi there, I'm Ritesh Rana 👋 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Full%20Stack%20%26%20AI%20Developer&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20%26%20Generative%20AI%20Developer&fontSize=36&animation=fadeIn" width="100%" />
 </div>
 
 ### 💫 About Me
