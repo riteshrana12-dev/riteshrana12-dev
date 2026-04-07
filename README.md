@@ -2,9 +2,8 @@
 
 # Hi there, I'm Ritesh Rana 👋 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20%26%20Generative%20AI%20Developer&fontSize=36&animation=fadeIn" width="100%" />
-</div>
+<img width="1440" height="378" alt="image" src="https://github.com/user-attachments/assets/b69542bd-3dd4-4fe5-8a0e-4bca88e23e1d" />
+
 
 ### 💫 About Me
 I am a **Full Stack Developer** passionate about bridging the gap between complex data and user-centric applications. My work focuses on integrating **Generative AI** into real-world solutions.
