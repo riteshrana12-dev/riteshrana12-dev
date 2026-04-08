@@ -2,7 +2,9 @@
 
 # Hi there, I'm Ritesh Rana 👋 
 
-<img width="1440" height="378" alt="image" src="https://github.com/user-attachments/assets/b69542bd-3dd4-4fe5-8a0e-4bca88e23e1d" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Full%20Stack%20%26%20Gen%20AI&fontSize=50&animation=fadeIn&fontAlignY=38" />
+</p>
 
 
 ### 💫 About Me
