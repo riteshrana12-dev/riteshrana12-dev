@@ -28,8 +28,7 @@ I am a **Full Stack Developer** passionate about bridging the gap between comple
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riteshrana12-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Ritesh's Stats" />
-  <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshrana12-dev&theme=tokyonight" alt="Ritesh's Streak" />
 </div>
 
