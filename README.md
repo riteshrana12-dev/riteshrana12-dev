@@ -40,6 +40,7 @@ An intelligent health companion that uses Gemini 2.0 Flash to analyze medical re
 - **Live:** [ai-health-assist.vercel.app](https://ai-health-assist.vercel.app)
   
 ### [CodeScale](https://github.com/riteshrana12-dev/codeScale.git)
+CodeScale is a full-stack, focused coding judge platform
 - **Live:** [code-scale.vercel.app](https://code-scale.vercel.app)
 
 ---
