@@ -38,8 +38,9 @@ I am a **Full Stack Developer** passionate about bridging the gap between comple
 #### [AI Health Assist](https://github.com/riteshrana12-dev/ai-health-assist)
 An intelligent health companion that uses Gemini 2.0 Flash to analyze medical reports and track vitals with predictive risk scoring.
 - **Live:** [ai-health-assist.vercel.app](https://ai-health-assist.vercel.app)
-
-- **Live:** [ai-health-assist.vercel.app](https://code-scale.vercel.app)
+  
+### [CodeScale](https://github.com/riteshrana12-dev/codeScale.git)
+- **Live:** [code-scale.vercel.app](https://code-scale.vercel.app)
 
 ---
 
