@@ -35,13 +35,15 @@ I am a **Full Stack Developer** passionate about bridging the gap between comple
 
 ### 🔥 Top Projects
 
+### [CodeScale](https://github.com/riteshrana12-dev/codeScale.git)
+CodeScale is a full-stack, focused coding judge platform
+- **Live:** [code-scale.vercel.app](https://code-scale.vercel.app)
+
 #### [AI Health Assist](https://github.com/riteshrana12-dev/ai-health-assist)
 An intelligent health companion that uses Gemini 2.0 Flash to analyze medical reports and track vitals with predictive risk scoring.
 - **Live:** [ai-health-assist.vercel.app](https://ai-health-assist.vercel.app)
   
-### [CodeScale](https://github.com/riteshrana12-dev/codeScale.git)
-CodeScale is a full-stack, focused coding judge platform
-- **Live:** [code-scale.vercel.app](https://code-scale.vercel.app)
+
 
 ---
 
