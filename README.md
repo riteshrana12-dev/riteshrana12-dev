@@ -38,8 +38,12 @@ I am a **Full Stack Developer** passionate about bridging the gap between comple
 ### 🔥 Top Projects
 
 ### [CodeScale](https://github.com/riteshrana12-dev/codeScale.git)
-CodeScale is a full-stack, focused coding judge platform
+CodeScale is a full-stack, focused coding judge platform Fetures(AI-Chatbot,DryRun Canvas)
 - **Live:** [code-scale.vercel.app](https://code-scale.vercel.app)
+
+### [SecondBrain](https://github.com/riteshrana12-dev/SecondBrain.git)
+Second Brain is a full-stack AI-powered personal knowledge management system. It acts as your external memory — save YouTube videos, tweets, PDFs, links and notes in one place, then ask your AI assistant questions about everything you have saved.
+- **Live:** [second-brain.vercel.app](https://second-brain-drab-two.vercel.app)
 
 #### [AI Health Assist](https://github.com/riteshrana12-dev/ai-health-assist)
 An intelligent health companion that uses Gemini 2.0 Flash to analyze medical reports and track vitals with predictive risk scoring.
