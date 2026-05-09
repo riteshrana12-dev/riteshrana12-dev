@@ -9,7 +9,7 @@ I am a **Full Stack Developer** passionate about bridging the gap between comple
 
 - 🚀 Currently busy on semester exam
 - Latest Project build
-**[SecondBrain](https://github.com/riteshrana12-dev/SecondBrain.git)** (Backend)
+**[SecondBrain](https://github.com/riteshrana12-dev/SecondBrain.git)** 
 
 
 ---
