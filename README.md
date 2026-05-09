@@ -7,7 +7,9 @@
 ### 💫 About Me
 I am a **Full Stack Developer** passionate about bridging the gap between complex data and user-centric applications. 
 
-- 🚀 Currently working on **[SecondBrain](https://github.com/riteshrana12-dev/SecondBrain.git)** (Backend)
+- 🚀 Currently busy on semester exam
+- Latest Project build
+**[SecondBrain](https://github.com/riteshrana12-dev/SecondBrain.git)** (Backend)
 
 
 ---
