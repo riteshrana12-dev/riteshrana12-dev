@@ -7,6 +7,8 @@
 ### 💫 About Me
 I am a **Full Stack Developer** passionate about bridging the gap between complex data and user-centric applications. 
 
+- Building a Collaborative Coding plateform
+
 - 🚀 Latest Project build
 **[SecondBrain](https://github.com/riteshrana12-dev/SecondBrain.git)** 
 
