@@ -47,9 +47,9 @@ CodeScale is a full-stack, focused coding judge platform Fetures(AI-Chatbot,DryR
 Second Brain is a full-stack AI-powered personal knowledge management system. It acts as your external memory — save YouTube videos, tweets, PDFs, links and notes in one place, then ask your AI assistant questions about everything you have saved.
 - **Live:** [second-brain.vercel.app](https://second-brain-drab-two.vercel.app)
 
-#### [AI Health Assist](https://github.com/riteshrana12-dev/ai-health-assist)
-An intelligent health companion that uses Gemini 2.0 Flash to analyze medical reports and track vitals with predictive risk scoring.
-- **Live:** [ai-health-assist.vercel.app](https://ai-health-assist.vercel.app)
+#### [ColabCode](https://github.com/riteshrana12-dev/ColabCode.git)
+ColabCode is a production-grade real-time collaborative coding platform built for technical interviews, DSA practice, and pair programming. Two or more developers share a live Monaco editor, structured file system, real PTY terminal, sandboxed code execution, and peer-to-peer video call — all in the browser, with zero setup.
+- **Live:** [colab-code.vercel.app](https://colab-code-rho.vercel.app/)
   
 
 
