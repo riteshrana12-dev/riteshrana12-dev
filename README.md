@@ -189,7 +189,6 @@
 
 <div align="center">
 
----
 📫 Let's connect and build something amazing together!  
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/riteshrana12-dev)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/riteshrana12-dev)
