@@ -18,8 +18,8 @@
         font-family="'Poppins','Fira Code',sans-serif" font-weight="600"
         font-size="48" fill="#ffffff" opacity="0">
     Hi there
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.55;0.75"
-             dur="1s" begin="0.1s" fill="freeze"
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.7;1"
+             dur="1.2s" begin="0.1s" fill="freeze"
              calcMode="linear" />
   </text>
 
@@ -27,8 +27,8 @@
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
         font-family="'Poppins','Fira Code',sans-serif" font-weight="700"
         font-size="88" fill="url(#nameGrad)" filter="url(#softGlow)">
-    <tspan opacity="0">R<animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.5s" fill="freeze"/></tspan>
-    <tspan opacity="0">i<animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.5s" fill="freeze"/></tspan>
+    <tspan opacity="0">R<animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.5s" fill="freeze"/></tspan>
+    <tspan opacity="0">i<animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.5s" fill="freeze"/></tspan>
     <tspan opacity="0">t<animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.5s" fill="freeze"/></tspan>
     <tspan opacity="0">e<animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.5s" fill="freeze"/></tspan>
     <tspan opacity="0">s<animate attributeName="opacity" from="0" to="1" begin="1.7s" dur="0.5s" fill="freeze"/></tspan>
