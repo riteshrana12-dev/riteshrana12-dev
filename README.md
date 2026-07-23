@@ -69,6 +69,7 @@
 <details>
 <summary>📊 Full Breakdown by Category</summary>
 
+
 | Category | Technologies |
 | :-------- | :----------- |
 | 📝 **Languages** | <img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" /> |
