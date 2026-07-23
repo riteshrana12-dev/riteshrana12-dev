@@ -77,37 +77,15 @@
 ---
 
 ## 🚀 Featured Projects & Production Work
-
-**[ColabCode](https://github.com/riteshrana12-dev/ColabCode)** — Live: [colab-code-rho.vercel.app](https://colab-code-rho.vercel.app/)
-<br/>
-Real-time collaborative IDE for technical interviews and pair programming. Architected a decoupled system — React on Vercel talking to a sandboxed Node.js/Socket.io backend on AWS EC2. Built a Yjs CRDT editor with per-file isolation and a zero-data-loss late-joiner sync protocol. Docker-sandboxed execution engine (JS/Python/C++/Bash) with network disabled, 128MB memory cap, and hard timeout kill. Scaled WebSockets with a Redis pub/sub adapter and room presence tracking.
-<br/>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00F0FF"/> <img src="https://img.shields.io/badge/Socket.io-0D1117?style=for-the-badge&logo=socketdotio&logoColor=BB00FF"/> <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00F0FF"/> <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=BB00FF"/> <img src="https://img.shields.io/badge/WebRTC-0D1117?style=for-the-badge&logo=webrtc&logoColor=00F0FF"/>
-
-<br/>
-
-**[SecondBrain](https://github.com/riteshrana12-dev/SecondBrain)** — Live: [second-brain-drab-two.vercel.app](https://second-brain-drab-two.vercel.app)
-<br/>
-Full-stack AI-powered personal knowledge manager — an external memory for videos, tweets, PDFs, links, and notes. Built a full RAG pipeline from scratch (embed → vector search → context injection → inference, no framework abstraction). Redesigned the save flow to be async/fire-and-forget, cutting perceived latency from 3–5s to near-instant. Fixed a production cross-domain auth bug (JWT cookie `sameSite` config). Runs the entire AI/infra stack at $0 cost, no OpenAI dependency.
-<br/>
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F0FF"/> <img src="https://img.shields.io/badge/MongoDB%20Atlas-0D1117?style=for-the-badge&logo=mongodb&logoColor=BB00FF"/> <img src="https://img.shields.io/badge/Jina%20AI-0D1117?style=for-the-badge&logo=jinja&logoColor=00F0FF"/> <img src="https://img.shields.io/badge/Groq-0D1117?style=for-the-badge&logo=meta&logoColor=BB00FF"/> <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=00F0FF"/>
-
-<br/>
-
-**[CodeScale](https://github.com/riteshrana12-dev/codeScale)** — Live: [code-scale.vercel.app](https://code-scale.vercel.app)
-<br/>
-Full-stack coding judge platform with AI-guided DSA practice. Server-side execution engine via `child_process` with sandboxed isolation, 9s timeout, and safe temp files. MongoDB schema (Mongoose) for users, problems, submissions, and per-difficulty scoring. JWT auth with HTTP-only cookies, bcrypt hashing, Zod validation, and admin role-based access. Integrated Groq (LLaMA 3.1 8B) for AI guidance plus a Dry Run Canvas with `react-sketch-canvas`.
-<br/>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF"/> <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=BB00FF"/> <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00F0FF"/> <img src="https://img.shields.io/badge/Groq-0D1117?style=for-the-badge&logo=meta&logoColor=BB00FF"/>
-
-<br/>
-
-**GlassyUI-Components** — Open Source Contribution ([ReactPlay](https://github.com/ReactPlayIO))
-<br/>
-Fixed UI theme inconsistencies across 29 pages with a shared `PageShell` layout for unified visual identity. Added reusable Skeleton UI components to improve loading feedback and responsiveness.
-<br/>
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F0FF"/> <img src="https://img.shields.io/badge/Open%20Source-0D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=BB00FF"/>
-
+ 
+| Project | Description | Tech Stack | Link |
+|---|---|---|---|
+| **ColabCode** | Real-time collaborative IDE for technical interviews and pair programming. Decoupled React frontend (Vercel) talking to a sandboxed Node.js/Socket.io backend (AWS EC2). Yjs CRDT editor with per-file isolation and zero-data-loss late-joiner sync. Docker-sandboxed execution engine (JS/Python/C++/Bash) — network disabled, 128MB memory cap, hard timeout kill. WebSockets scaled via Redis pub/sub with room presence tracking. | `TypeScript` `Socket.io` `Redis` `Docker` `WebRTC` `AWS EC2` | [Live](https://colab-code-rho.vercel.app/) · [GitHub](https://github.com/riteshrana12-dev/ColabCode) |
+| **SecondBrain** | Full-stack AI-powered personal knowledge manager — an external memory for videos, tweets, PDFs, links, and notes. Full RAG pipeline built from scratch (embed → vector search → context injection → inference, no framework abstraction). Async fire-and-forget save flow cut perceived latency from 3–5s to near-instant. Fixed a production cross-domain auth bug (JWT cookie `sameSite` config). Entire AI/infra stack runs at $0 cost, no OpenAI dependency. | `React` `MongoDB Atlas` `Jina AI` `Groq` `JWT` | [Live](https://second-brain-drab-two.vercel.app) · [GitHub](https://github.com/riteshrana12-dev/SecondBrain) |
+| **CodeScale** | Full-stack coding judge platform with AI-guided DSA practice. Server-side execution engine via `child_process` with sandboxed isolation, 9s timeout, and safe temp files. MongoDB schema (Mongoose) for users, problems, submissions, and per-difficulty scoring. JWT auth with HTTP-only cookies, bcrypt hashing, Zod validation, and admin role-based access. Integrated Groq (LLaMA 3.1 8B) for AI guidance plus a Dry Run Canvas with `react-sketch-canvas`. | `Node.js` `Express` `MongoDB` `Groq` `JWT` | [Live](https://code-scale.vercel.app) · [GitHub](https://github.com/riteshrana12-dev/codeScale) |
+| **GlassyUI-Components** — Open Source | Fixed UI theme inconsistencies across 29 pages by building a shared `PageShell` layout for a unified visual identity across the library. | `React` `TypeScript` `Open Source` | [Repo](https://github.com/Jaishree2310/GlassyUI-Components) |
+| **ReactPlay** — Open Source | Added reusable Skeleton UI components to improve loading feedback and overall responsiveness across the platform. | `React` `Open Source` | [Repo](https://github.com/reactplay/react-play) |
+ 
 ---
 
 ## 🏆 GitHub Trophies
