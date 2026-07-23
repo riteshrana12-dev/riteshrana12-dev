@@ -183,3 +183,21 @@
 *"Code is like humor. When you have to explain it, it's bad."*
 
 </div>
+
+
+---
+
+<div align="center">
+
+---
+📫 Let's connect and build something amazing together!  
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/riteshrana12-dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/riteshrana12-dev)
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=riteshrana12-dev&color=blueviolet&style=flat)
+
+⭐️ If you like my projects, don’t forget to star them!
+
+</div>
+---
