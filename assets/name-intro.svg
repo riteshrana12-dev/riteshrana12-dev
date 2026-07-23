@@ -1,12 +1,11 @@
-
-<svg width="900" height="200" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#00F0FF"/>
       <stop offset="100%" stop-color="#7C3AED"/>
     </linearGradient>
     <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -14,25 +13,36 @@
     </filter>
   </defs>
 
-  <text x="50%" y="60%" text-anchor="middle" dominant-baseline="middle"
-        font-family="'Poppins','Fira Code',sans-serif" font-weight="700"
-        font-size="72" fill="url(#nameGrad)" filter="url(#softGlow)">
-    <tspan opacity="0">R<animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.7s" fill="freeze"/></tspan>
-    <tspan opacity="0">i<animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.7s" fill="freeze"/></tspan>
-    <tspan opacity="0">t<animate attributeName="opacity" from="0" to="1" begin="0.44s" dur="0.7s" fill="freeze"/></tspan>
-    <tspan opacity="0">e<animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.7s" fill="freeze"/></tspan>
-    <tspan opacity="0">s<animate attributeName="opacity" from="0" to="1" begin="0.68s" dur="0.7s" fill="freeze"/></tspan>
-    <tspan opacity="0">h<animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.7s" fill="freeze"/></tspan>
-    <tspan opacity="0"> </tspan>
-    <tspan opacity="0">R<animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.7s" fill="freeze"/></tspan>
-    <tspan opacity="0">a<animate attributeName="opacity" from="0" to="1" begin="1.12s" dur="0.7s" fill="freeze"/></tspan>
-    <tspan opacity="0">n<animate attributeName="opacity" from="0" to="1" begin="1.24s" dur="0.7s" fill="freeze"/></tspan>
-    <tspan opacity="0">a<animate attributeName="opacity" from="0" to="1" begin="1.36s" dur="0.7s" fill="freeze"/></tspan>
+  <!-- Stage 1: greeting, fades in then fades out -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Poppins','Fira Code',sans-serif" font-weight="600"
+        font-size="48" fill="#ffffff" opacity="0">
+    Hi there
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.55;0.75"
+             dur="1s" begin="0.1s" fill="freeze"
+             calcMode="linear" />
   </text>
 
-  <line x1="220" y1="122" x2="220" y2="122" stroke="url(#nameGrad)" stroke-width="3" stroke-linecap="round">
-    <animate attributeName="x1" from="220" to="220" dur="0.01s" fill="freeze"/>
-    <animate attributeName="x2" from="220" to="580" begin="1.6s" dur="0.9s" fill="freeze"
+  <!-- Stage 2: name, fades in letter by letter after greeting exits, sharp/clean (light glow) -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Poppins','Fira Code',sans-serif" font-weight="700"
+        font-size="88" fill="url(#nameGrad)" filter="url(#softGlow)">
+    <tspan opacity="0">R<animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.5s" fill="freeze"/></tspan>
+    <tspan opacity="0">i<animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.5s" fill="freeze"/></tspan>
+    <tspan opacity="0">t<animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.5s" fill="freeze"/></tspan>
+    <tspan opacity="0">e<animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.5s" fill="freeze"/></tspan>
+    <tspan opacity="0">s<animate attributeName="opacity" from="0" to="1" begin="1.7s" dur="0.5s" fill="freeze"/></tspan>
+    <tspan opacity="0">h<animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.5s" fill="freeze"/></tspan>
+    <tspan opacity="0"> </tspan>
+    <tspan opacity="0">R<animate attributeName="opacity" from="0" to="1" begin="1.95s" dur="0.5s" fill="freeze"/></tspan>
+    <tspan opacity="0">a<animate attributeName="opacity" from="0" to="1" begin="2.05s" dur="0.5s" fill="freeze"/></tspan>
+    <tspan opacity="0">n<animate attributeName="opacity" from="0" to="1" begin="2.15s" dur="0.5s" fill="freeze"/></tspan>
+    <tspan opacity="0">a<animate attributeName="opacity" from="0" to="1" begin="2.25s" dur="0.5s" fill="freeze"/></tspan>
+  </text>
+
+  <!-- underline sweep, after name settles -->
+  <line x1="240" y1="158" x2="240" y2="158" stroke="url(#nameGrad)" stroke-width="3" stroke-linecap="round">
+    <animate attributeName="x2" from="240" to="660" begin="2.6s" dur="0.8s" fill="freeze"
              calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
   </line>
 </svg>
