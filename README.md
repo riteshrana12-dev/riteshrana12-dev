@@ -44,37 +44,47 @@
 ---
 
 ## 🎯 Current Focus
-
-- 🔭 **Building:** ColabCode — a sandboxed, multi-language, real-time collaborative code editor
-- 📚 **Leveling up in:** Applied GenAI — RAG pipelines, vector search, LLM-integrated backends
-- 🤝 **Open to:** Full-Stack Engineer roles, with a growing GenAI edge
-- 💬 **Ask me about:** sandboxed execution, CRDT sync, WebSocket scaling, running an AI stack at $0 cost
-
+- 🚀 **Shipped:** ColabCode — a sandboxed, multi-language, real-time collaborative code editor
+- 🧠 **Deep diving into:** Agentic AI & GenAI — RAG pipelines, vector search, multi-agent orchestration, LLM-integrated backends
+- 🤝 **Open to:** Full-Stack Engineer roles, with a growing GenAI/Agentic AI edge
+- 💬 **Ask me about:** sandboxed execution, CRDT sync, WebSocket scaling, agentic workflows, running an AI stack at $0 cost
 ---
 
 ## ⚙️ Tech Arsenal
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux&theme=dark" />
+### 🟢 Core Stack — daily driver
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&theme=dark" />
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,socketio&theme=dark" />
-<img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=BB00FF"/>
+### 🔵 Backend & Data
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,prisma&theme=dark" />
 
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,vercel,postman,git&theme=dark" />
-<img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=BB00FF"/>
+### 🟣 Currently Leveling Up
+<img src="https://skillicons.dev/icons?i=redis,docker,aws&theme=dark" />
 
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,prisma&theme=dark" />
-<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00F0FF"/>
+### 🟠 Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,docker,postman,githubactions&theme=dark" />
 
 ---
+
+<details>
+<summary>📊 Full Breakdown by Category</summary>
+
+| Category | Technologies |
+| :-------- | :----------- |
+| 📝 **Languages** | <img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" /> |
+| 📦 **State Management** | <img src="https://skillicons.dev/icons?i=redux&theme=dark" /> <img height="48" src="https://cdn.simpleicons.org/zustand/white" alt="Zustand"/> |
+| 🎨 **UI & Styling** | <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" /> <img height="48" src="https://cdn.simpleicons.org/shadcnui/white" alt="Shadcn UI"/> <img height="48" src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer Motion"/> |
+| ⚡ **Frameworks** | <img src="https://skillicons.dev/icons?i=nextjs,fastapi&theme=dark" /> |
+| 🔧 **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /> |
+| 🗄️ **Databases & ORM** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,supabase,prisma&theme=dark" /> |
+| 🔌 **Real-Time** | <img height="48" src="https://cdn.simpleicons.org/socketdotio/white" alt="Socket.IO"/> |
+| 🛠️ **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,docker,postman,githubactions&theme=dark" /> |
+| ☁️ **DevOps & Deployment** | <img src="https://skillicons.dev/icons?i=aws,vercel&theme=dark" /> <img height="48" src="https://cdn.simpleicons.org/render/46E3B7" alt="Render"/> |
+
+</details>
+
+
+
 
 ## 🚀 Featured Projects & Production Work
  
