@@ -1,1 +1,38 @@
 
+<svg width="900" height="200" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <text x="50%" y="60%" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Poppins','Fira Code',sans-serif" font-weight="700"
+        font-size="72" fill="url(#nameGrad)" filter="url(#softGlow)">
+    <tspan opacity="0">R<animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.7s" fill="freeze"/></tspan>
+    <tspan opacity="0">i<animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.7s" fill="freeze"/></tspan>
+    <tspan opacity="0">t<animate attributeName="opacity" from="0" to="1" begin="0.44s" dur="0.7s" fill="freeze"/></tspan>
+    <tspan opacity="0">e<animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.7s" fill="freeze"/></tspan>
+    <tspan opacity="0">s<animate attributeName="opacity" from="0" to="1" begin="0.68s" dur="0.7s" fill="freeze"/></tspan>
+    <tspan opacity="0">h<animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.7s" fill="freeze"/></tspan>
+    <tspan opacity="0"> </tspan>
+    <tspan opacity="0">R<animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.7s" fill="freeze"/></tspan>
+    <tspan opacity="0">a<animate attributeName="opacity" from="0" to="1" begin="1.12s" dur="0.7s" fill="freeze"/></tspan>
+    <tspan opacity="0">n<animate attributeName="opacity" from="0" to="1" begin="1.24s" dur="0.7s" fill="freeze"/></tspan>
+    <tspan opacity="0">a<animate attributeName="opacity" from="0" to="1" begin="1.36s" dur="0.7s" fill="freeze"/></tspan>
+  </text>
+
+  <line x1="220" y1="122" x2="220" y2="122" stroke="url(#nameGrad)" stroke-width="3" stroke-linecap="round">
+    <animate attributeName="x1" from="220" to="220" dur="0.01s" fill="freeze"/>
+    <animate attributeName="x2" from="220" to="580" begin="1.6s" dur="0.9s" fill="freeze"
+             calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+</svg>
