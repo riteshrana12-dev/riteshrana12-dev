@@ -17,7 +17,7 @@
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
         font-family="'Poppins','Fira Code',sans-serif" font-weight="600"
         font-size="48" fill="#ffffff" opacity="0">
-    Hi there
+    👋 Hi there, I'm
     <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.7;1"
              dur="1.2s" begin="0.1s" fill="freeze"
              calcMode="linear" />
