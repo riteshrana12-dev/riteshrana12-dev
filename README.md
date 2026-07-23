@@ -156,7 +156,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshrana12-dev&hide_border=true&background=0D1117&stroke=00F0FF&ring=BB00FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshrana12-dev&theme=react-dark&bg_color=0D1117&color=00F0FF&line=BB00FF&point=ffffff&area=true&hide_border=true&hide_title=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshrana12-dev&theme=react-dark&bg_color=0D1117&color=00F0FF&line=BB00FF&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
