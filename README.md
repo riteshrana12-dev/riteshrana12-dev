@@ -52,6 +52,8 @@
 
 ## ⚙️ Tech Arsenal
 
+<div align="center">
+  
 ### 🟢 Core Stack - daily driver
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&theme=dark" />
 
@@ -65,6 +67,7 @@
 <img src="https://skillicons.dev/icons?i=git,docker,postman,githubactions&theme=dark" />
 
 ---
+</div>
 
 <details>
 <summary>📊 Full Breakdown by Category</summary>
