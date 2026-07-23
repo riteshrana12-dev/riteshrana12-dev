@@ -73,45 +73,59 @@
 
 <table>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" width="160" height="200">
       📝 <b>Languages</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50"/><br/>Python<br/>
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50" height="50"/><br/>TypeScript<br/>
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" height="50"/><br/>JavaScript
     </td>
-    <td align="center" valign="top">
+    <td align="center" width="160" height="200">
       📦 <b>State Management</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=redux&theme=dark" /><br/>
-      <img height="48" src="https://cdn.simpleicons.org/zustand/white" alt="Zustand"/>
+      <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="50" height="50"/><br/>Redux<br/>
+      <img src="https://cdn.simpleicons.org/zustand/white" width="50" height="50"/><br/>Zustand
     </td>
-    <td align="center" valign="top">
+    <td align="center" width="160" height="200">
       🎨 <b>UI & Styling</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" /><br/>
-      <img height="48" src="https://cdn.simpleicons.org/shadcnui/white" alt="Shadcn UI"/><br/>
-      <img height="48" src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer Motion"/>
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" height="50"/><br/>React<br/>
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50" height="50"/><br/>Tailwind<br/>
+      <img src="https://cdn.simpleicons.org/shadcnui/white" width="50" height="50"/><br/>Shadcn UI<br/>
+      <img src="https://cdn.simpleicons.org/framer/0055FF" width="50" height="50"/><br/>Framer Motion
     </td>
-    <td align="center" valign="top">
+    <td align="center" width="160" height="200">
       ⚡ <b>Frameworks</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nextjs,fastapi&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="50" height="50"/><br/>Next.js<br/>
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="50" height="50"/><br/>FastAPI
     </td>
-    <td align="center" valign="top">
+    <td align="center" width="160" height="200">
       🔧 <b>Backend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" height="50"/><br/>Node.js<br/>
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="50" height="50"/><br/>Express
     </td>
-    <td align="center" valign="top">
+    <td align="center" width="160" height="200">
       🗄️ <b>Databases & ORM</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,supabase,prisma&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50" height="50"/><br/>MongoDB<br/>
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50" height="50"/><br/>PostgreSQL<br/>
+      <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="50" height="50"/><br/>Redis<br/>
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="50" height="50"/><br/>Firebase<br/>
+      <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="50" height="50"/><br/>Supabase<br/>
+      <img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="50" height="50"/><br/>Prisma
     </td>
-    <td align="center" valign="top">
+    <td align="center" width="160" height="200">
       🔌 <b>Real-Time</b><br/><br/>
-      <img height="48" src="https://cdn.simpleicons.org/socketdotio/white" alt="Socket.IO"/>
+      <img src="https://cdn.simpleicons.org/socketdotio/white" width="50" height="50"/><br/>Socket.IO
     </td>
-    <td align="center" valign="top">
+    <td align="center" width="160" height="200">
       🛠️ <b>Developer Tools</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,docker,postman,githubactions&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50"/><br/>Git<br/>
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50" height="50"/><br/>Docker<br/>
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50" height="50"/><br/>Postman<br/>
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="50" height="50"/><br/>GitHub Actions
     </td>
-    <td align="center" valign="top">
+    <td align="center" width="160" height="200">
       ☁️ <b>DevOps & Deployment</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=aws,vercel&theme=dark" /><br/>
-      <img height="48" src="https://cdn.simpleicons.org/render/46E3B7" alt="Render"/>
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50" height="50"/><br/>AWS<br/>
+      <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50" height="50"/><br/>Vercel<br/>
+      <img src="https://cdn.simpleicons.org/render/46E3B7" width="50" height="50"/><br/>Render
     </td>
   </tr>
 </table>
