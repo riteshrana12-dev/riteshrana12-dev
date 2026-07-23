@@ -69,23 +69,84 @@
 ---
 </div>
 
-<details>
-<summary>📊 Full Breakdown by Category</summary>
+## 📊 Full Breakdown by Category
 
+<table>
+  <tr>
+    <!-- Languages -->
+    <td align="center" valign="top">
+      📝 <b>Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" /><br/>Python<br/><br/>
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" /><br/>TypeScript<br/><br/>
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" /><br/>JavaScript
+    </td>
 
-| Category | Technologies |
-| :-------- | :----------- |
-| 📝 **Languages** | <img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" /> |
-| 📦 **State Management** | <img src="https://skillicons.dev/icons?i=redux&theme=dark" /> <img height="48" src="https://cdn.simpleicons.org/zustand/white" alt="Zustand"/> |
-| 🎨 **UI & Styling** | <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" /> <img height="48" src="https://cdn.simpleicons.org/shadcnui/white" alt="Shadcn UI"/> <img height="48" src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer Motion"/> |
-| ⚡ **Frameworks** | <img src="https://skillicons.dev/icons?i=nextjs,fastapi&theme=dark" /> |
-| 🔧 **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /> |
-| 🗄️ **Databases & ORM** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,supabase,prisma&theme=dark" /> |
-| 🔌 **Real-Time** | <img height="48" src="https://cdn.simpleicons.org/socketdotio/white" alt="Socket.IO"/> |
-| 🛠️ **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,docker,postman,githubactions&theme=dark" /> |
-| ☁️ **DevOps & Deployment** | <img src="https://skillicons.dev/icons?i=aws,vercel&theme=dark" /> <img height="48" src="https://cdn.simpleicons.org/render/46E3B7" alt="Render"/> |
+    <!-- State Management -->
+    <td align="center" valign="top">
+      📦 <b>State Management</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=redux&theme=dark" /><br/>Redux<br/><br/>
+      <img height="48" src="https://cdn.simpleicons.org/zustand/white" alt="Zustand"/><br/>Zustand
+    </td>
 
-</details>
+    <!-- UI & Styling -->
+    <td align="center" valign="top">
+      🎨 <b>UI & Styling</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" /><br/>React<br/><br/>
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /><br/>Tailwind<br/><br/>
+      <img height="48" src="https://cdn.simpleicons.org/shadcnui/white" alt="Shadcn UI"/><br/>Shadcn UI<br/><br/>
+      <img height="48" src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer Motion"/><br/>Framer Motion
+    </td>
+
+    <!-- Frameworks -->
+    <td align="center" valign="top">
+      ⚡ <b>Frameworks</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /><br/>Next.js<br/><br/>
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" /><br/>FastAPI
+    </td>
+
+    <!-- Backend -->
+    <td align="center" valign="top">
+      🔧 <b>Backend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /><br/>Node.js<br/><br/>
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" /><br/>Express
+    </td>
+
+    <!-- Databases & ORM -->
+    <td align="center" valign="top">
+      🗄️ <b>Databases & ORM</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /><br/>MongoDB<br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" /><br/>PostgreSQL<br/><br/>
+      <img src="https://skillicons.dev/icons?i=redis&theme=dark" /><br/>Redis<br/><br/>
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" /><br/>Firebase<br/><br/>
+      <img src="https://skillicons.dev/icons?i=supabase&theme=dark" /><br/>Supabase<br/><br/>
+      <img src="https://skillicons.dev/icons?i=prisma&theme=dark" /><br/>Prisma
+    </td>
+
+    <!-- Real-Time -->
+    <td align="center" valign="top">
+      🔌 <b>Real-Time</b><br/><br/>
+      <img height="48" src="https://cdn.simpleicons.org/socketdotio/white" alt="Socket.IO"/><br/>Socket.IO
+    </td>
+
+    <!-- Developer Tools -->
+    <td align="center" valign="top">
+      🛠️ <b>Developer Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" /><br/>Git<br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" /><br/>Docker<br/><br/>
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" /><br/>Postman<br/><br/>
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" /><br/>GitHub Actions
+    </td>
+
+    <!-- DevOps & Deployment -->
+    <td align="center" valign="top">
+      ☁️ <b>DevOps & Deployment</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" /><br/>AWS<br/><br/>
+      <img src="https://skillicons.dev/icons?i=vercel&theme=dark" /><br/>Vercel<br/><br/>
+      <img height="48" src="https://cdn.simpleicons.org/render/46E3B7" alt="Render"/><br/>Render
+    </td>
+  </tr>
+</table>
+
 
 
 
