@@ -2,7 +2,7 @@
 
 <img src="./assets/name-intro.svg" alt="Ritesh Rana" width="600"/>
 
-**Full-Stack Product Engineer** — building production-grade systems, one deployed idea at a time.
+**Full-Stack Product Engineer** - building production-grade systems, one deployed idea at a time.
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+AWS;Sandboxed+%26+Real-Time+Systems+Builder;Leveling+Up+in+Applied+GenAI+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -37,22 +37,22 @@
 <br/>
 
 - 🎓 B.E. Computer Engineering @ VCET, Mumbai University (Expected 2027)
-- 🌟 GSSoC 2026 — Open Source Contributor
-- 📜 Government of India Copyright Registration holder — AlgoEngine
+- 🌟 GSSoC 2026 - Open Source Contributor
+- 📜 Government of India Copyright Registration holder - AlgoEngine
 - 💭 Belief: *every line of code should directly solve a user problem*
 
 ---
 
 ## 🎯 Current Focus
-- 🚀 **Shipped:** ColabCode — a sandboxed, multi-language, real-time collaborative code editor
-- 🧠 **Deep diving into:** Agentic AI & GenAI — RAG pipelines, vector search, multi-agent orchestration, LLM-integrated backends
+- 🚀 **Shipped:** ColabCode - a sandboxed, multi-language, real-time collaborative code editor
+- 🧠 **Deep diving into:** Agentic AI & GenAI - RAG pipelines, vector search, multi-agent orchestration, LLM-integrated backends
 - 🤝 **Open to:** Full-Stack Engineer roles, with a growing GenAI/Agentic AI edge
 - 💬 **Ask me about:** sandboxed execution, CRDT sync, WebSocket scaling, agentic workflows, running an AI stack at $0 cost
 ---
 
 ## ⚙️ Tech Arsenal
 
-### 🟢 Core Stack — daily driver
+### 🟢 Core Stack - daily driver
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&theme=dark" />
 
 ### 🔵 Backend & Data
@@ -143,8 +143,8 @@
 
 <div align="center">
 
-**Focus:** Full-stack product engineering — turning system-design ideas into deployed, reliable software.
-**Growing edge:** Applied GenAI — RAG, vector search, and LLM-integrated backends, on top of a solid full-stack foundation.
+**Focus:** Full-stack product engineering - turning system-design ideas into deployed, reliable software.
+**Growing edge:** Applied GenAI - RAG, vector search, and LLM-integrated backends, on top of a solid full-stack foundation.
 
 *"Code is like humor. When you have to explain it, it's bad."*
 
