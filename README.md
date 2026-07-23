@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7C3AED&height=220&section=header&text=Ritesh%20Rana&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Product%20Engineer&descAlignY=58&descSize=20&descAlign=50" alt="Ritesh Rana"/>
+<img src="./assets/name-intro.svg" alt="Ritesh Rana" width="600"/>
+
+**Full-Stack Product Engineer** — building production-grade systems, one deployed idea at a time.
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+AWS;Sandboxed+%26+Real-Time+Systems+Builder;Leveling+Up+in+Applied+GenAI+%F0%9F%8C%B1" alt="Typing SVG" />
