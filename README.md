@@ -66,6 +66,15 @@
 ### 🟠 Tools & Workflow
 <img src="https://skillicons.dev/icons?i=git,docker,postman,githubactions&theme=dark" />
 
+### 🤖 GenAI, Agentic AI & Vector DBs
+<img src="https://api.iconify.design/simple-icons:langchain.svg?color=white" width="48" height="48"/>
+<img src="https://api.iconify.design/simple-icons:langgraph.svg?color=white" width="48" height="48"/>
+<img src="https://api.iconify.design/simple-icons:huggingface.svg?color=%23FFD21E" width="48" height="48"/>
+<img src="https://api.iconify.design/simple-icons:ollama.svg?color=white" width="48" height="48"/>
+<img src="https://api.iconify.design/simple-icons:pinecone.svg?color=white" width="48" height="48"/>
+<img src="https://api.iconify.design/simple-icons:weaviate.svg?color=%23FF6B35" width="48" height="48"/>
+<img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%234169E1" width="48" height="48"/>
+
 ---
 </div>
 
@@ -80,7 +89,7 @@
       <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48"/>
       <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48"/>
       <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48"/>
-      <img src="https://cdn.simpleicons.org/socketdotio/white" width="48" height="48"/>
+      <img src="https://api.iconify.design/simple-icons:socketdotio.svg?color=white" width="48" height="48"/>
     </td>
 
   <td align="center" width="250" valign="top">
@@ -99,7 +108,7 @@
       <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48"/>
       <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48"/>
       <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48"/>
-      <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48"/>
+      <img src="https://api.iconify.design/simple-icons:render.svg?color=%2346E3B7" width="48" height="48"/>
       <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48"/>
   </td>
 
@@ -109,10 +118,21 @@
       <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48"/>
       <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48"/>
       <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48"/>
-      <img src="https://cdn.simpleicons.org/shadcnui/white" width="48" height="48"/>
-      <img src="https://cdn.simpleicons.org/framer/0055FF" width="48" height="48"/>
+      <img src="https://api.iconify.design/simple-icons:shadcnui.svg?color=white" width="48" height="48"/>
+      <img src="https://api.iconify.design/simple-icons:framer.svg?color=%230055FF" width="48" height="48"/>
       <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48"/>
       <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48"/>
+  </td>
+
+  <td align="center" width="250" valign="top">
+      🤖 <b>GenAI, Agentic AI & Vector DBs</b><br/><br/>
+      <img src="https://api.iconify.design/simple-icons:langchain.svg?color=white" width="48" height="48"/>
+      <img src="https://api.iconify.design/simple-icons:langgraph.svg?color=white" width="48" height="48"/>
+      <img src="https://api.iconify.design/simple-icons:huggingface.svg?color=%23FFD21E" width="48" height="48"/>
+      <img src="https://api.iconify.design/simple-icons:ollama.svg?color=white" width="48" height="48"/>
+      <img src="https://api.iconify.design/simple-icons:pinecone.svg?color=white" width="48" height="48"/>
+      <img src="https://api.iconify.design/simple-icons:weaviate.svg?color=%23FF6B35" width="48" height="48"/>
+      <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%234169E1" width="48" height="48"/>
   </td>
   </tr>
 </table>
