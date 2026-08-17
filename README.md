@@ -106,6 +106,8 @@
       ☁️ <b>Cloud & DevOps</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48"/>
       <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48"/>
+      <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" height="48"/>
+      <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48"/>
       <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48"/>
       <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48"/>
       <img src="https://api.iconify.design/simple-icons:render.svg?color=%2346E3B7" width="48" height="48"/>
