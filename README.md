@@ -3,6 +3,7 @@
 <img src="./assets/name-intro.svg" alt="Ritesh Rana" width="600"/>
 
 **Full-Stack Product Engineer** - building production-grade systems, one deployed idea at a time.
+
 **Currently Building [AgentCV](https://github.com/riteshrana12-dev/AgentCV.git)
 
 <a href="https://git.io/typing-svg">
